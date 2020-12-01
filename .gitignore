@@ -131,3 +131,4 @@ dmypy.json
 # Other files
 *.gz
 minikube-linux-amd64
+prometheus-2.23.0.linux-amd64
